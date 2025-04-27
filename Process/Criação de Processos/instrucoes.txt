@@ -1,0 +1,8 @@
+Os códigos 1.c, 2.c e 3.c necessitam apenas de um valor inteiro como entrada, o resto será feito aleatóriamente
+
+O código 4.c necessita de um caminho como entrada.
+O arquivo complemento4.c é opcional, podendo ser utilizado como caminho de entrada para o exercício 4
+Ao passar o caminho (/home/User/Desktop/complemento4 -- exemplo)
+O código dentro do arquivo complemento4 será executado.
+
+Caso seja utilizado, deverá ser compilado antes do uso.
